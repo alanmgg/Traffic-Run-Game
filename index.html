@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!--=============== FAVICON ===============-->
+    <link rel="shortcut icon" href="assets/img/fav-icon.png" type="image/x-icon"/>
+
+    <title>Traffic Run Game</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+
+  <body>
+    <!-- partial:index.partial.html -->
+    <div id="score">Presiona ARRIBA</div>
+
+    <div id="controls">
+      <div id="buttons">
+        <button id="accelerate">
+          <svg width="30" height="30" viewBox="0 0 10 10">
+            <g transform="rotate(0, 5,5)">
+              <path d="M5,4 L7,6 L3,6 L5,4" />
+            </g>
+          </svg>
+        </button>
+        <button id="decelerate">
+          <svg width="30" height="30" viewBox="0 0 10 10">
+            <g transform="rotate(180, 5,5)">
+              <path d="M5,4 L7,6 L3,6 L5,4" />
+            </g>
+          </svg>
+        </button>
+      </div>
+      <div id="instructions">
+        Presiona ARRIBA para comenzar. Evite la colisión con otros vehículos acelerando o desacelerando con las teclas ARRIBA y ABAJO.
+      </div>
+    </div>
+
+    <div id="results">
+      <div class="content">
+        <h1>Colisionaste con otro vehículo</h1>
+        <p>Para resetear el juego presiona R</p>
+
+        <p>
+          Follow me
+          <a href="https://github.com/alanmgg" target="_blank">@alanmgg</a>
+        </p>
+      </div>
+    </div>
+
+    <a id="youtube-main" class="logoicon" target="_blank" href="https://github.com/alanmgg/Traffic-Run-Game">
+      <img src="assets/img/fav-icon.png" alt="logo-alanmgg">
+    </a>
+    <div id="youtube-card">
+      Repositorio del proyecto en mi Github. Realizado con Three.js
+    </div>
+
+    <!-- partial -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r126/three.min.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
