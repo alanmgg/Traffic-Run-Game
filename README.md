@@ -5,15 +5,15 @@
 
   <p align="center">
     Se configuro una escena Three.js con objetos de caja, se agregaron luces, cámara, animaciones y controladores de eventos. También se agregaron texturas con HTML Canvas y se dibujo formas 2D en Three.js URL / Demo: 
-    <a href="https://alanmgg.github.io/trafficrun/">alanmgg.github.io/trafficrun/</a>
+    <a href="http://alanmg.me/trafficrun/">alanmg.me/trafficrun/</a>
     <br />
     <br />
-    <a href="https://alanmg.vercel.app/">Más sobre mi</a>
+    <a href="http://alanmg.me/">Más sobre mi</a>
   </p>
 </p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg?style=for-the-badge)](https://github.com/alanmgg/Traffic-Run-Game)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green?style=for-the-badge)](https://alanmgg.github.io/trafficrun/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green?style=for-the-badge)](http://alanmg.me/trafficrun/)
 [![Author](https://img.shields.io/badge/Author-Alan%20Francisco%20Mora%20G-blue.svg?style=for-the-badge)](https://github.com/alanmgg)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-05%20Aug%202022-yellow.svg?style=for-the-badge)](https://github.com/alanmgg/Traffic-Run-Game/commits)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alanmgggg?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/alanmgggg)
